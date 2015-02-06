@@ -1,0 +1,14 @@
+---
+layout: default
+title: download
+description: about me
+---
+&nbsp;
+
+## Download Grayscale
+
+You can download Grayscale for free on the preview page at Start Bootstrap.
+
+[Visit Download Page](http://startbootstrap.com/template-overviews/grayscale/)
+
+&nbsp;
