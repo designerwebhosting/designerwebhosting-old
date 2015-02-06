@@ -1,13 +1,12 @@
 ---
-title: home
+title: about
 layout: default
 ---
 
 
-## Contact Start Bootstrap
+## About Designer Web hosting
 
 Feel free to email us to provide some feedback on our templates, give us suggestions for new templates and themes, or to just say hello!
 
-[feedback@startbootstrap.com](mailto:feedback@startbootstrap.com)
+[feedback@designerwebhosting.co.uk](mailto:feedback@designerwebhosting.co.uk)
 
-{% include social %}
