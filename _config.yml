@@ -1,0 +1,16 @@
+exclude: ["Gemfile","Gemfile.lock","README.md","CNAME"]
+
+# Site settings
+title: Designer Web Hosting
+email: designer@designerwebhosting.co.uk
+description: "Designer Web Hosting is all about making your interaction with the Internet easier and more productive. Our aim is giving you the tools to promote your work on the internet and the process not to be just yet another job to do."
+
+baseurl: ""
+url: ""
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+relative_permalinks: false
+
