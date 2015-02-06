@@ -1,0 +1,4 @@
+{% for page in site.pages %}
+{% if page.path == include.param %}
+{{ page.content }}{% endif %}
+{% endfor %}

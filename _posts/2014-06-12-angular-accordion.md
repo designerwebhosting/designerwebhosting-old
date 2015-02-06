@@ -1,0 +1,42 @@
+---
+layout: post
+title:  "Angular Accordion"
+date:   2014-06-12 07:03:47
+categories: jekyll update
+angular:
+ - '{{group.title}}'
+ - '{{item}}'
+ - '{{group.content}}'
+---
+
+<div ng-controller="AccordionDemoCtrl">
+  <p>
+    <button class="btn btn-default btn-sm" ng-click="status.open = !status.open">Toggle last panel</button>
+    <button class="btn btn-default btn-sm" ng-click="status.isFirstDisabled = ! status.isFirstDisabled">Enable / Disable first panel</button>
+  </p>
+
+  <label class="checkbox">
+    <input type="checkbox" ng-model="oneAtATime">
+    Open only one at a time
+  </label>
+  <accordion close-others="oneAtATime">
+    <accordion-group heading="Static Header, initially expanded" is-open="status.isFirstOpen" is-disabled="status.isFirstDisabled">
+      This content is straight in the template.
+    </accordion-group>
+    <accordion-group heading="{{page.angular[0]}}" ng-repeat="group in groups">
+      {{page.angular[2]}}
+    </accordion-group>
+    <accordion-group heading="Dynamic Body Content">
+      <p>The body of the accordion group grows to fit the contents</p>
+        <button class="btn btn-default btn-sm" ng-click="addItem()">Add Item</button>
+        <div ng-repeat="item in items">{{page.angular[1]}}</div>
+    </accordion-group>
+    <accordion-group is-open="status.open">
+        <accordion-heading>
+            I can have markup, too! <i class="pull-right glyphicon" ng-class="{'glyphicon-chevron-down': status.open, 'glyphicon-chevron-right': !status.open}"></i>
+        </accordion-heading>
+        This is just some content to illustrate fancy headings.
+    </accordion-group>
+  </accordion>
+</div>
+
