@@ -10,4 +10,4 @@ Feel free to email us to provide some feedback on our templates, give us suggest
 
 [feedback@startbootstrap.com](mailto:feedback@startbootstrap.com)
 
-{% include social %}
+{% include social.html %}
