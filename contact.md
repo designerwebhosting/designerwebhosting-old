@@ -10,4 +10,4 @@ Feel free to email us to provide some feedback on our site, give us suggestions,
 
 [feedback@designerwebhosting.co.uk](mailto:feedback@designerwebhosting.co.uk)
 
-<!--|%%|%7B%25%20include%20social.html%20%25%7D|%%|-->
+{% include social.html %}
