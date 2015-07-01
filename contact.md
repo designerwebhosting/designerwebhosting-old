@@ -6,7 +6,7 @@ layout: default
 
 ## Contact Start Bootstrap
 
-Feel free to email us to provide some feedback on our templates, give us suggestions for new templates and themes, or to just say hello!
+Feel free to email us to provide some feedback on our site, give us suggestions, or to just say hello!
 
 [feedback@startbootstrap.com](mailto:feedback@startbootstrap.com)
 
