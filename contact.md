@@ -4,7 +4,7 @@ layout: default
 ---
 
 
-## Contact Start Bootstrap
+## Contact Designer Web Hosting
 
 Feel free to email us to provide some feedback on our site, give us suggestions, or to just say hello!
 
