@@ -8,6 +8,6 @@ layout: default
 
 Feel free to email us to provide some feedback on our site, give us suggestions, or to just say hello!
 
-[feedback@startbootstrap.com](mailto:feedback@startbootstrap.com)
+[feedback@designerwebhosting.co.uk](javascript:void&#40;location.href=)
 
-{% include social.html %}
+<!--|%%|%7B%25%20include%20social.html%20%25%7D|%%|-->
