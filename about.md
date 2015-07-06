@@ -4,7 +4,7 @@ layout: default
 ---
 
 
-## About Designer Web hosting
+## About Designer Web Hosting
 
 Feel free to email us to provide some feedback.
 
