@@ -2,7 +2,7 @@
 title: about
 layout: default
 ---
-## More About Designer Web Hosting
+## About Designer Web Hosting
 
 Feel free to email us to provide some feedback.
 
