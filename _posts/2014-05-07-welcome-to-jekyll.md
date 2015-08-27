@@ -1,9 +1,13 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title: Welcome to Jekyll!
 date:   2014-05-07 07:03:47
 categories: jekyll update
 tags: 2014 may post
+0
+1
+2
+3
 ---
 This post.was edited useing the guggesites app.
 
@@ -18,12 +22,11 @@ def print_hi(name)
 end
 print_hi('Tom')
 
-# =&gt; prints 'Hi, Tom' to STDOUT.
+#  =&gt; prints 'Hi, Tom' to STDOUT.
 
 {% endhighlight %}
 
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll's GitHub repo](https://github.com/mojombo/jekyll).
+Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll's GitHub repo](https://github.com/mojombo/jekyll)
+.
 
 [jekyll]:    http://jekyllrb.com
-
-  {% for tags in page.tags %}*   {{ tags }}
