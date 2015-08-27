@@ -4,10 +4,6 @@ title: Welcome to Jekyll!
 date:   2014-05-07 07:03:47
 categories: jekyll update
 tags: 2014 may post
-0
-1
-2
-3
 ---
 This post.was edited useing the guggesites app.
 
