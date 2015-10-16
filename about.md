@@ -1,10 +1,13 @@
 ---
-title: about
-layout: default
-gdoc: 1o8I1lq8qKVLGAbEfkzbRKkbPknbjDkbUkfWOaeTTFEU
+undefined
+undefined
+about
+undefined
+default
+undefined
+1o8I1lq8qKVLGAbEfkzbRKkbPknbjDkbUkfWOaeTTFEU
 ---
-## Even more About Designer Web Hosting
-
-Feel free to email us to provide some feedback.
+##  Even more About Designer Web Hosting
+It would be grear to hear from you, so feel free to email us to provide some feedback.
 
 [feedback@designerwebhosting.co.uk](mailto:feedback@designerwebhosting.co.uk)
