@@ -1,11 +1,7 @@
 ---
-title: undefined
-layout: undefined
-gdoc: about
-undefined: undefined
-undefined: default
-undefined: undefined
-undefined: 1o8I1lq8qKVLGAbEfkzbRKkbPknbjDkbUkfWOaeTTFEU
+title: about
+layout: default
+gdoc: 1o8I1lq8qKVLGAbEfkzbRKkbPknbjDkbUkfWOaeTTFEU
 ---
 ##     Even more About Designer Web Hosting.
 
