@@ -6,12 +6,21 @@ undefined: undefined
 undefined: undefined
 undefined: undefined
 undefined: undefined
+undefined: undefined
+undefined: undefined
+undefined: undefined
+undefined: undefined
+undefined: undefined
+undefined: undefined
+undefined: undefined
+undefined: undefined
 ---
-##  Contact Designer Web Hosting
+##   Contact Designer Web Hosting
 
 Feel free to email us to provide some feedback on our site, give us suggestions, or to just say hello!
 
-[feedback@designerwebhosting.co.uk](mailto:feedback@designerwebhosting.co.uk)<div>
+[feedback@designerwebhosting.co.uk](mailto:feedback@designerwebhosting.co.uk)
+<div>
 <div>{% include social.html %}
 
 </div></div>
