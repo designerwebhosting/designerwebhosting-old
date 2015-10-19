@@ -2,10 +2,6 @@
 title: about
 layout: default
 gdoc: 1o8I1lq8qKVLGAbEfkzbRKkbPknbjDkbUkfWOaeTTFEU
-undefined: undefined
-undefined: undefined
-undefined: undefined
-undefined: undefined
 ---
 ## About Designer Web Hosting.
 
