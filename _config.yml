@@ -12,10 +12,7 @@ url: ""
 # Build settings
 markdown: kramdown
 
-defaults:
-  -
-    scope:
-      path: "pages"
-      type: "pages" # previously `page` in Jekyll 2.2.
-    values:
-      permalink: /:title
+collections:
+  pages:
+    output: true
+    permalink: /:title.html
