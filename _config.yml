@@ -14,13 +14,3 @@ permalink: pretty
 
 relative_permalinks: false
 
-...
-defaults:
-  -
-    scope:
-      path: "pages"
-      type: "pages"
-    values:
-      permalink: /:title
-      author: "Peter Noble"
-...
