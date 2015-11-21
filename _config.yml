@@ -12,6 +12,3 @@ url: ""
 # Build settings
 markdown: kramdown
 permalink: /:title/
-
-relative_permalinks: false
-
