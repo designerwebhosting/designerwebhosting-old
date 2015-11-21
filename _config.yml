@@ -11,4 +11,4 @@ url: ""
 
 # Build settings
 markdown: kramdown
-permalink: /:title
+permalink: /:title.html
