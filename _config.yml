@@ -1,4 +1,5 @@
 exclude: ["Gemfile","Gemfile.lock","README.md","CNAME"]
+include: ["pages"]
 
 # Site settings
 title: Designer Web Hosting
@@ -10,7 +11,7 @@ url: ""
 
 # Build settings
 markdown: kramdown
-permalink: pretty
+permalink: /:title/
 
 relative_permalinks: false
 
