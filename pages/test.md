@@ -2,6 +2,7 @@
 layout: default
 title: test
 description: about me
+permalink: /:title/
 ---
 
 
