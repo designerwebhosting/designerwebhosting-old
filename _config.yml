@@ -11,3 +11,12 @@ url: ""
 
 # Build settings
 markdown: kramdown
+
+permalink: pretty
+
+defaults:
+  - scope:
+      path: ''
+    values:
+      layout: 'default'
+ 
