@@ -18,3 +18,8 @@ defaults:
       path: "_pages" # an empty string here means all files in the project
     values:
       layout: "default"
+  -
+    scope:
+      path: "_posts" # an empty string here means all files in the project
+    values:
+      layout: "post"
