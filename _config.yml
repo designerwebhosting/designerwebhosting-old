@@ -14,9 +14,14 @@ markdown: kramdown
 
 permalink: pretty
 
+collections:
+  - pages:
+    output: true
+
 defaults:
   - scope:
       path: ''
+      type: 'pages'
     values:
       layout: 'default'
  
