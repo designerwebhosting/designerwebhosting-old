@@ -15,11 +15,10 @@ markdown: kramdown
 defaults:
   -
     scope:
-      path: "_pages" # an empty string here means all files in the project
+      path: "" # an empty string here means all files in the project
       type: "pages"
     values:
       layout: "default"
-      permalink: "/:title/"
   -
     scope:
       path: "" # an empty string here means all files in the project
