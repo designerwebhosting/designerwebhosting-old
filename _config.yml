@@ -1,4 +1,5 @@
 exclude: ["Gemfile","Gemfile.lock","README.md","CNAME"]
+include: ["_pages"]
 
 # Site settings
 title: Designer Web Hosting
