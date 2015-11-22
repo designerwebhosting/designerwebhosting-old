@@ -10,8 +10,3 @@ url: ""
 
 # Build settings
 markdown: kramdown
-
-collections:
-  pages:
-    output: true
-    permalink: /:title
