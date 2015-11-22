@@ -5,5 +5,4 @@ date: Thu Jul 24 2014 10:35:51 GMT+0100 (BST)
 layout: default
 tags: published,mySite-designerwebhosting.co.uk,page
 ---
-
-#test
+<div class="c1"><div><p class="c2"><span></span></p></div><h2 class="c4"><a name="h.wn3q6uhpzyxp"></a><span class="c7">Contact Designer Web Hosting</span></h2><p class="c3 c5"><span class="c6">Feel free to email us to provide some feedback on our site, give us suggestions, or to just say hello!</span></p><p class="c3 c5"><span class="c0">feedback@designerwebhosting.co.uk</span></p><p class="c3"><span class="c6">{% include social.html %}</span></p><p class="c2"><span></span></p></div>
