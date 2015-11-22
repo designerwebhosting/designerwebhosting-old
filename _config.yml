@@ -14,4 +14,4 @@ markdown: kramdown
 collections:
   pages:
     output: true
-    permalink: /:title.html
+    permalink: /:title
