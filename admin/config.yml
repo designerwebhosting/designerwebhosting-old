@@ -2,6 +2,7 @@ backend:
   name: github
   repo: designerwebhosting/designerwebhosting.github.io # Path to your Github repository
   branch: master # Branch to update
+  site_domain: http://advocate-ethel-42062.netlify.com
   
 media_folder: "img" # Media files will be stored in the repo under images/uploads
 
