@@ -13,5 +13,17 @@ collections: # A list of collections the CMS should be able to edit
     fields: # The fields each document in this collection have
       - {label: "Title", name: "title", widget: "string", tagname: "h1"}
       - {label: "Body", name: "body", widget: "markdown"}
-      - {label: "Foo", name: "foo", widget: "foo"}
+      - {label: "Categories", name: "Categories", widget: "text"}
+      - {label: "tags", name: "Tags", widget: "text"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+
+  - name: "page" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Page" # Used in the UI, ie.: "New Post"
+    folder: "_pages" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields each document in this collection have
+      - {label: "Title", name: "title", widget: "string", tagname: "h1"}
+      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Categories", name: "Categories", widget: "text"}
+      - {label: "tags", name: "Tags", widget: "text"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
